@@ -1,0 +1,9 @@
+{
+  "platforms": ["ios", "android", "web"],
+  "ios": {
+    "modules": ["RnMessagingNativeConfigModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.rnmessagingnativeconfig.RnMessagingNativeConfigModule"]
+  }
+}
